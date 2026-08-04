@@ -25,3 +25,6 @@ Thumbs.db
 *.ckpt
 *.safetensors
 *.bin
+
+# Downloaded dataset (recreate with the curl cell)
+input.txt
